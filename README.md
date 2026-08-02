@@ -29,17 +29,6 @@ Actuarial Science graduate building software with AI-assisted development, and e
 
 ---
 
-### What I'm working on
-
-<!--
-List 2–3 real projects here, e.g.:
-- 🔗 [Project Name](https://github.com/ROBI302/project-repo) — one line on what it does and what it's built with
--->
-
-- 🔗 Project Name — short description of what it does and the stack used
-- 🔗 Project Name — short description of what it does and the stack used
-
----
 
 ### GitHub Stats
 
